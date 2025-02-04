@@ -26,8 +26,8 @@ To run this dashboard, the following libraries are required:
 
 ## Dataset  
 The dataset is derived from the **VLE Dataset** compiled by researchers at University College London.
-1. The training (`train.csv`)
-2. The test (`test.csv`)  
+1. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/train.csv>Training</a> 
+2. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/test.csv>Test</a>  
 
 - **title_word_count**: Number of words in the title.  
 - **document_entropy**: Measures topic variety in the transcript.  
@@ -69,6 +69,7 @@ The best-performing model achieved an **AUC score of > 0.85**, meeting the passi
 - **easiness** (text complexity)  
 
 ## Output Preview
+
 
 
 ## Acknowledgements
