@@ -26,8 +26,8 @@ To run this dashboard, the following libraries are required:
 
 ## Dataset  
 The dataset is derived from the **VLE Dataset** compiled by researchers at University College London.
-1. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/train.csv>Training</a> 
-2. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/test.csv>Test</a>  
+1. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/train.csv">Training</a> 
+2. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/test.csv">Test</a>  
 
 - **title_word_count**: Number of words in the title.  
 - **document_entropy**: Measures topic variety in the transcript.  
@@ -69,6 +69,15 @@ The best-performing model achieved an **AUC score of > 0.85**, meeting the passi
 - **easiness** (text complexity)  
 
 ## Output Preview
+
+**Output Preview 1**
+![Output Preview 1](https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/Screenshot%202025-02-02%20at%2023.09.26.png)
+
+**Output Preview 2**
+![Output Preview 2](https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/Screenshot%202025-02-02%20at%2023.10.34.png)
+
+**Output Preview 3**
+![Output Preview 3](https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/Screenshot%202025-02-02%20at%2023.11.24.png)
 
 
 
