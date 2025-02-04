@@ -26,8 +26,8 @@ To run this dashboard, the following libraries are required:
 
 ## Dataset  
 The dataset is derived from the **VLE Dataset** compiled by researchers at University College London.
-1. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/train.csv">Training</a> 
-2. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/test.csv">Test</a>  
+1. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/train.csv">Train.csv</a> 
+2. <a href="https://github.com/AsuquoAA/Predicting_Viewer_Engagement_with_Educational_Videos/blob/main/test.csv">Test.csv</a>  
 
 - **title_word_count**: Number of words in the title.  
 - **document_entropy**: Measures topic variety in the transcript.  
@@ -46,7 +46,7 @@ The project follows a **standard machine learning pipeline**:
 1. **Exploratory Data Analysis (EDA)**  
    - Identified feature correlations and trends.  
    - Visualized data distributions.
-   - 
+    
 2. **Data Preprocessing**  
    - Handled missing values and performed feature scaling.  
    - Converted categorical variables into numerical representations.  
